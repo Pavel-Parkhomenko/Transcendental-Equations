@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Method.cpp
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\MethodLibrary\Method.cpp(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\MethodLibrary\Method.cpp(196,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\MethodLibrary\Method.cpp(248,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\Debug\MethodLibrary.lib и объект D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\Debug\MethodLibrary.exp
+  MethodLibrary.vcxproj -> D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\Debug\MethodLibrary.dll

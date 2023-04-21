@@ -1,0 +1,11 @@
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\bin\Debug\AVS_Coursework_Libr.exe.config
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\bin\Debug\AVS_Coursework_Libr.exe
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\bin\Debug\AVS_Coursework_Libr.pdb
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.csprojAssemblyReference.cache
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.Form1.resources
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.Properties.Resources.resources
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.csproj.GenerateResource.cache
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.csproj.CoreCompileInputs.cache
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.exe
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.pdb
+D:\Документы Д\Programms\Courseworks\AVS (CouseWork)\AVS_Coursework_Libr\AVS_Coursework_Libr\obj\Debug\AVS_Coursework_Libr.Draw.resources
